@@ -1,3 +1,3 @@
 # odin-recipes
 
-Recipe Website Built using HTML alone
+Recipe Website built for learning HTML through the odin project
